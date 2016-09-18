@@ -1,0 +1,1 @@
+get-service e-terrasource*`(*`) | stop-service
